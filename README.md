@@ -6,7 +6,7 @@ Helps in CTFs by displaying your OpenVPN IP address, making it easy to monitor u
 
 ## Installation
 
-Clone the repo and move the folder `Conky-theme-to-show-ctfs-IP` to `~/.conky/` folder/directory. (You can create the ~/.conky directory if it doesn't already exist.)
+Clone the repo and move the folder `Conky-theme-to-show-ctfs-IP` to `~/.conky/` folder/directory. (You can create the `~/.conky` directory if it doesn't already exist.)
 ```bash
 # Create the .conky folder in your user's home directory
 cd ~ && mkdir .conky
